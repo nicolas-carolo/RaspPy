@@ -1,4 +1,4 @@
-# Electronic Connections
+# LEDs
 
 ## Red LED
 
