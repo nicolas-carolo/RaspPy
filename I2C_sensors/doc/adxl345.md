@@ -43,8 +43,8 @@
 	60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 	70: -- -- -- -- -- -- -- --
 	```
-	From the output of this command we have got the I2C address, which in my case is 0x76.
-3. Install `RPi.bme280`:
+	From the output of this command we have got the I2C address, which in my case is 0x53.
+3. Install `adafruit-circuitpython-adxl34x`:
 	```sh
 	pip install adafruit-circuitpython-adxl34x
 	```
