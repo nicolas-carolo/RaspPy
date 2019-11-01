@@ -49,4 +49,4 @@
 	pip install adafruit-circuitpython-adxl34x
 	```
 
-4. Run the code I stored in `test_adxl345.py`
+4. Run the code I stored in [`test_adxl345.py`](https://github.com/nicolas-carolo/RaspPy/blob/master/I2C_sensors/test_adxl345.py)
